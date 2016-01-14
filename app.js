@@ -7,8 +7,3 @@ var app = angular.module('wpApp', [
     'home',
     'post'
 ]);
-
-
-
-
-
