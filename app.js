@@ -12,5 +12,3 @@ var app = angular.module('wpApp', [
 
 
 
-
-
